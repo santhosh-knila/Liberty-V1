@@ -1,0 +1,44 @@
+{
+  "uuid": "e0d20293-cdd6-4da1-9298-c18dcce73598-tc-0-1000",
+  "name": "LibertyTax.TestClasses.CustomMessage.fnAddCutomMessage",
+  "children": [
+    "19049fd1-e73b-4861-a1da-147bd6fa9c27-tr-0-1003"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601443189045,
+      "stop": 1601443189045
+    }
+  ],
+  "afters": [
+    {
+      "name": "fnScreenshot",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601443189045,
+      "stop": 1601443189045
+    }
+  ],
+  "links": [],
+  "start": 1601443178244,
+  "stop": 1601443189046
+}

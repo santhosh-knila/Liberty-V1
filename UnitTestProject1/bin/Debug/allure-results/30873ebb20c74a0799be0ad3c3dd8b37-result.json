@@ -1,0 +1,93 @@
+{
+  "uuid": "63acfb78-5666-4fe6-b70c-6ecb1338351b-tr-0-1002",
+  "historyId": "LibertyTax.TestClasses.CustomMessage.fnVerifyLengthOfMsg",
+  "fullName": "LibertyTax.TestClasses.CustomMessage.fnVerifyLengthOfMsg",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnVerifyLengthOfMsg"
+    },
+    {
+      "name": "package",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Custom Message Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnVerifyLengthOfMsg",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether length of the entered message is same when comparing the original and mirror panel\n",
+  "steps": [
+    {
+      "name": "fnVerifyLengthOfMsg",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "1.VErify the Mirror panel having same text of user entered \n 2.Verify the length of the cusomt message text and mirror message length is same",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1601443177884,
+          "stop": 1601443177929
+        }
+      ],
+      "attachments": [
+        {
+          "name": "NonParallelWorker20200930_104937.png",
+          "source": "ec0ce9a117f049bc8d4574d87c28e1db-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "e58afd6fe8684b7291d6d61b6758e37c-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601443177884,
+      "stop": 1601443178242
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601443177884,
+  "stop": 1601443178242
+}

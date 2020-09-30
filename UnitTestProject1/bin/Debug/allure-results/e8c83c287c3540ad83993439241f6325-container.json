@@ -1,0 +1,44 @@
+{
+  "uuid": "76945baf-dc58-466a-8f29-f80912c38659-tc-0-1009",
+  "name": "LibertyTax.TestClasses.LoginClass.fnLoginIntoApplication",
+  "children": [
+    "a0132f99-6d3e-42d3-b859-b206ebd1da21-tr-0-1010"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601443176761,
+      "stop": 1601443176761
+    }
+  ],
+  "afters": [
+    {
+      "name": "fnScreenshot",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1601443176762,
+      "stop": 1601443176762
+    }
+  ],
+  "links": [],
+  "start": 1601443165027,
+  "stop": 1601443176826
+}

@@ -1,0 +1,139 @@
+{
+  "uuid": "4de7ed33-32b9-46fe-8c6a-0eb60829a01e-tr-0-1007",
+  "historyId": "LibertyTax.TestClasses.CustomMessage.fnVerifyCustomePagewithNoURL",
+  "fullName": "LibertyTax.TestClasses.CustomMessage.fnVerifyCustomePagewithNoURL",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnVerifyCustomePagewithNoURL"
+    },
+    {
+      "name": "package",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "suite",
+      "value": "Custom Message Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnVerifyCustomePagewithNoURL",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether user able to save the custom message with NO URL option\n",
+  "steps": [
+    {
+      "name": "fnVerifyCustomePagewithNoURL",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "1.Enter cutom message \n 2.Select option as NO URL \n 3. Click on Submit button \n 5.Verify success message is displayed. \n 6. Verify dashboard is redirected",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [
+            {
+              "name": "1. Click on Custom Message menu from LHS \n 2. Verify Custom Message screen is appeared. \n 3. Verify Include Office URL is selected by default \n 4. Enter Custom Message",
+              "status": "passed",
+              "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false
+              },
+              "stage": "finished",
+              "steps": [],
+              "attachments": [],
+              "parameters": [],
+              "start": 1601443221373,
+              "stop": 1601443222089
+            },
+            {
+              "name": "1.VErify the Mirror panel having same text of user entered \n 2.Verify the length of the cusomt message text and mirror message length is same",
+              "status": "passed",
+              "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false
+              },
+              "stage": "finished",
+              "steps": [],
+              "attachments": [],
+              "parameters": [],
+              "start": 1601443222089,
+              "stop": 1601443222121
+            },
+            {
+              "name": "1. Click on Submit on button \n 2. Verify success message is displayed \n 3. Verify dashboard screen is redirected.",
+              "status": "passed",
+              "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false
+              },
+              "stage": "finished",
+              "steps": [],
+              "attachments": [],
+              "parameters": [],
+              "start": 1601443230233,
+              "stop": 1601443240540
+            }
+          ],
+          "attachments": [],
+          "parameters": [],
+          "start": 1601443218372,
+          "stop": 1601443240540
+        }
+      ],
+      "attachments": [
+        {
+          "name": "NonParallelWorker20200930_105040.png",
+          "source": "72b35e513ae54b53882a01911c541e1d-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "8a5fefec7ccf41d58aff18bc7c39be7a-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601443218372,
+      "stop": 1601443240977
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601443218372,
+  "stop": 1601443240977
+}

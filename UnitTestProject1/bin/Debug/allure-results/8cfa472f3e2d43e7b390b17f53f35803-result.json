@@ -1,0 +1,93 @@
+{
+  "uuid": "284f939e-e9db-42eb-955d-4bf2932818a8-tr-0-1004",
+  "historyId": "LibertyTax.TestClasses.CustomMessage.fnVerifyNewlyAddedMsg",
+  "fullName": "LibertyTax.TestClasses.CustomMessage.fnVerifyNewlyAddedMsg",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnVerifyNewlyAddedMsg"
+    },
+    {
+      "name": "package",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Custom Message Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnVerifyNewlyAddedMsg",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether newly added message is displayed in Pending list\n",
+  "steps": [
+    {
+      "name": "fnVerifyNewlyAddedMsg",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "1. Goto Pending section \n 2. Verify newly added custom message is displayed in table",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1601443189048,
+          "stop": 1601443192135
+        }
+      ],
+      "attachments": [
+        {
+          "name": "NonParallelWorker20200930_104952.png",
+          "source": "ed328a0cda40447380bd951552d76cb2-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "90eeab50bace4b3094fd7d8a7a7e707b-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601443189048,
+      "stop": 1601443192446
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601443189048,
+  "stop": 1601443192446
+}

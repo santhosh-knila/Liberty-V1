@@ -1,0 +1,93 @@
+{
+  "uuid": "4c5db498-cb62-46bd-a05e-82845d3b9975-tr-0-1008",
+  "historyId": "LibertyTax.TestClasses.CustomMessage.fnVerifyNewlyAddedNopURLMsg",
+  "fullName": "LibertyTax.TestClasses.CustomMessage.fnVerifyNewlyAddedNopURLMsg",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnVerifyNewlyAddedNopURLMsg"
+    },
+    {
+      "name": "package",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Custom Message Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnVerifyNewlyAddedNopURLMsg",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether newly added message is displayed in Pending list\n",
+  "steps": [
+    {
+      "name": "fnVerifyNewlyAddedNopURLMsg",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "1. Goto Pending section \n 2. Verify newly added custom message is displayed in table",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1601443240979,
+          "stop": 1601443244050
+        }
+      ],
+      "attachments": [
+        {
+          "name": "NonParallelWorker20200930_105044.png",
+          "source": "249bb0db2f48445694c42c7ad246913d-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "5a97ef778a634b28bf5d44c24fd9654c-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601443240979,
+      "stop": 1601443244397
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601443240979,
+  "stop": 1601443244397
+}

@@ -1,0 +1,93 @@
+{
+  "uuid": "19049fd1-e73b-4861-a1da-147bd6fa9c27-tr-0-1003",
+  "historyId": "LibertyTax.TestClasses.CustomMessage.fnAddCutomMessage",
+  "fullName": "LibertyTax.TestClasses.CustomMessage.fnAddCutomMessage",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnAddCutomMessage"
+    },
+    {
+      "name": "package",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "suite",
+      "value": "Custom Message Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnAddCutomMessage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether user able to save the custom message with Include Office URL option\n",
+  "steps": [
+    {
+      "name": "fnAddCutomMessage",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "1. Click on Submit on button \n 2. Verify success message is displayed \n 3. Verify dashboard screen is redirected.",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1601443178244,
+          "stop": 1601443188627
+        }
+      ],
+      "attachments": [
+        {
+          "name": "NonParallelWorker20200930_104948.png",
+          "source": "8633afb7da004f15a3254c495fb02628-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "0ae921e3cd944e6892f4dc011a04c78e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601443178244,
+      "stop": 1601443189046
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601443178244,
+  "stop": 1601443189046
+}

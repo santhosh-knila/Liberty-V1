@@ -1,0 +1,93 @@
+{
+  "uuid": "a0132f99-6d3e-42d3-b859-b206ebd1da21-tr-0-1010",
+  "historyId": "LibertyTax.TestClasses.LoginClass.fnLoginIntoApplication",
+  "fullName": "LibertyTax.TestClasses.LoginClass.fnLoginIntoApplication",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "LibertyTax.TestClasses.LoginClass"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnLoginIntoApplication"
+    },
+    {
+      "name": "package",
+      "value": "LibertyTax.TestClasses.LoginClass"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "suite",
+      "value": "Login & Setup Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnLoginIntoApplication",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether user able to login into the application\n",
+  "steps": [
+    {
+      "name": "fnLoginIntoApplication",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "1. Open the URL \n 2. Enter the username and password \n 3. Click on Login button",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1601443165036,
+          "stop": 1601443176333
+        }
+      ],
+      "attachments": [
+        {
+          "name": "NonParallelWorker20200930_104936.png",
+          "source": "1fa89ad0a6284ec99c855868bd6adfc0-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "c15d779edb804a7e8c107a3ba490f680-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601443165033,
+      "stop": 1601443176764
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601443165031,
+  "stop": 1601443176770
+}

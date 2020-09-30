@@ -1,0 +1,93 @@
+{
+  "uuid": "df8ad7d0-431a-4d2a-84ed-c9dfa9e850cf-tr-0-1001",
+  "historyId": "LibertyTax.TestClasses.CustomMessage.fnVerifyCustomPage",
+  "fullName": "LibertyTax.TestClasses.CustomMessage.fnVerifyCustomPage",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "KNILA15"
+    },
+    {
+      "name": "testClass",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "testMethod",
+      "value": "fnVerifyCustomPage"
+    },
+    {
+      "name": "package",
+      "value": "LibertyTax.TestClasses.CustomMessage"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "suite",
+      "value": "Custom Message Suite"
+    }
+  ],
+  "links": [],
+  "name": "fnVerifyCustomPage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "To check whether Custom Message is page is redirected\n",
+  "steps": [
+    {
+      "name": "fnVerifyCustomPage",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "1. Click on Custom Message menu from LHS \n 2. Verify Custom Message screen is appeared. \n 3. Verify Include Office URL is selected by default \n 4. Enter Custom Message",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1601443176847,
+          "stop": 1601443177587
+        }
+      ],
+      "attachments": [
+        {
+          "name": "NonParallelWorker20200930_104937.png",
+          "source": "1a364c7a1e034a9eb4c53e9fc431c9da-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "3aba6c60a69843049921a2f096b8c90e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1601443176846,
+      "stop": 1601443177882
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1601443176846,
+  "stop": 1601443177882
+}
